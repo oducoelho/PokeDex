@@ -1,7 +1,7 @@
 <h1 align="center">PokeDex</h1>
 
 ## :memo: Descrição
-* Aplicação inspirado no desenho animado pokemon
+* Aplicação inspirado no desenho animado PokeMon
 
 ## :books: Funcionalidades
 * Programa que traz um item que lista todos os pokemons do desenho
